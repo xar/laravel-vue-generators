@@ -2,36 +2,36 @@
 
 </template>
 
-<script>
-    export default {
-        components: {},
+<script type="text/babel">
+export default {
+  components: {},
 
-        mixins: [],
+  mixins: [],
 
-        data: function () {
-            return {
-                //
-            }
-        },
+  data () {
+      return {
+          //
+      }
+  },
 
-        props: {
-            //
-        },
+  props: {
+      //
+  },
 
-        computed: {
-            //
-        },
+  computed: {
+      //
+  },
 
-        created () {
-            //
-        },
+  created () {
+      //
+  },
 
-        mounted () {
-            //
-        },
+  mounted () {
+      //
+  },
 
-        methods: {
-            //
-        }
-    };
+  methods: {
+      //
+  }
+}
 </script>

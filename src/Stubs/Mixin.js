@@ -1,29 +1,28 @@
 export default {
-    components: {},
+  components: {},
 
-    data: function () {
-        return {
-            //
-        }
-    },
+  data () {
+      return {
+          //
+      }
+  },
 
-    props: {
-        //
-    },
+  props: {
+      //
+  },
 
-    computed: {
-        //
-    },
+  computed: {
+      //
+  },
 
-    created () {
-        //
-    },
+  created () {
+      //
+  },
 
-    mounted () {
-        //
-    },
+  mounted () {
+      //
+  },
 
-    methods: {
-        //
-    }
-};
+  methods: {
+      //
+  }

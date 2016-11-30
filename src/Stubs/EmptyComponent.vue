@@ -2,8 +2,8 @@
 
 </template>
 
-<script>
-    export default {
-        //
-    };
+<script type="text/babel">
+export default {
+    //
+}
 </script>
